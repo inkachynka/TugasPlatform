@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jadwal Kuliah</title>
+</head>
+
+<body>
+    <h2 align="center">Jadwal Mata Kuliah Semester 5</h2>
+    <hr>
+    <table border="1" cellspacing="0" align="center">
+        <thead>
+            <tr style="background-color: rgb(120, 208, 235)">
+                <th>Jam / Hari</th>
+                <th width="150">Senin</th>
+                <th width="150">Selasa</th>
+                <th width="150">Rabu</th>
+                <th width="150">Kamis</th>
+                <th width="150">Jumat</th>
+                <th width="150">Sabtu</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th width="90px" height="75px" style="background-color: rgb(120, 208, 235)">06 - 07</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th style="background-color: rgb(120, 208, 235)">07 - 08</th>
+                <td></td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">ALGO107
+                    <br>Algo Opti
+                    <br>L.GM FST
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INTS102
+                    <br>Pengenal
+                    <br>LKD.C FS
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG106
+                    <br>Pemrog P
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th style="background-color: rgb(120, 208, 235)">08 - 09</th>
+                <td></td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">ALGO107
+                    <br>Algo Opti
+                    <br>L.GM FST
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INTS102
+                    <br>Pengenal
+                    <br>LKD.C FS
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG106
+                    <br>Pemrog P
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">KEWR101
+                    <br>Kewiraus
+                    <br>K.312
+                    <br>Kelas B</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th style="background-color: rgb(120, 208, 235)">09 - 10</th>
+                <td></td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">ALGO107
+                    <br>Algo Opti
+                    <br>L.GM FST
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INTS102
+                    <br>Pengenalan
+                    <br>LKD.C FS
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG106
+                    <br>Pemrog P
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">KEWR101
+                    <br>Kewiraus
+                    <br>K.312
+                    <br>Kelas B
+                <td></td>
+            </tr>
+            </tbody>
+    </table>
+</body>
+</html>
