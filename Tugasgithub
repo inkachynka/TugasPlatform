@@ -89,6 +89,90 @@
                     <br>Kelas B
                 <td></td>
             </tr>
+            <tr>
+                <th style="background-color: rgb(120, 208, 235)">10 - 11</th>
+                <td align="center" style="background-color: rgb(233, 192, 250)">ALGO106
+                    <br>Strategi A
+                    <br>K.312
+                    <br>Kelas D</td>
+                <td></td>
+                <td></td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG104
+                    <br>RPL
+                    <br>K.312
+                    <br>Kelas AP</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th style="background-color: rgb(120, 208, 235)">11 - 12</th>
+                <td align="center" style="background-color: rgb(233, 192, 250)">ALGO106
+                    <br>Strategi A
+                    <br>K.312
+                    <br>Kelas D</td>
+                <td></td>
+                <td></td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG104
+                    <br>RPL
+                    <br>K.312
+                    <br>Kelas AP</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th style="background-color: rgb(120, 208, 235)">12 - 13</th>
+                <td align="center" style="background-color: rgb(233, 192, 250)">ALGO106
+                    <br>Strategi A
+                    <br>K.312
+                    <br>Kelas D</td>
+                <td></td>
+                <td></td>
+                <td <td align="center" style="background-color: rgb(233, 192, 250)">SENG104
+                    <br>RPL
+                    <br>K.312
+                    <br>Kelas AP</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th style="background-color: rgb(120, 208, 235)">13 - 14</th>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INMA105
+                    <br>Administrasi
+                    <br>Lab Basis
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG104
+                    <br>RPL
+                    <br>Lab Basis
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INSTS102
+                    <br>Pengenal
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th style="background-color: rgb(120, 208, 235)">14 - 15</th>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INMA105
+                    <br>Administrasi
+                    <br>Lab Basis
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG104
+                    <br>RPL
+                    <br>Lab Basis
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INTS102
+                    <br>Pengenalan 
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">ALGO107
+                    <br>Algo Opti
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td></td>
+                <td></td>
+            </tr>
             </tbody>
     </table>
 </body>
