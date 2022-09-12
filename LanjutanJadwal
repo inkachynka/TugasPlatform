@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jadwal Kuliah</title>
+</head>
+
+<body>
+    <h2 align="center">Jadwal Mata Kuliah Semester 5</h2>
+    <hr>
+    <table border="1" cellspacing="0" align="center">
+        <thead>
+            <tr style="background-color: rgb(120, 208, 235)">
+                <th>Jam / Hari</th>
+                <th width="150">Senin</th>
+                <th width="150">Selasa</th>
+                <th width="150">Rabu</th>
+                <th width="150">Kamis</th>
+                <th width="150">Jumat</th>
+                <th width="150">Sabtu</th>
+            </tr>
+        </thead>
+        <tbody>
+<tr>
+                <th style="background-color: rgb(120, 208, 235)">16 - 17</th>
+                <td <td align="center" style="background-color: rgb(233, 192, 250)">SENG106
+                    <br>Pemrog Platform
+                    <br>Lab Basis
+                    <br>Kelas A</td>
+                <td></td>
+                <td></td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">Algo107
+                    <br>Algo Opti
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th width="75px" height="75px" style="background-color: rgb(120, 208, 235)">17 - 18</th>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG106
+                    <br>Pemrog Platform
+                    <br>Lab Basis
+                    <br>Kelas A</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th width="75px" height="75px" style="background-color: rgb(120, 208, 235)">18 - 19</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th width="75px" height="75px" style="background-color: rgb(120, 208, 235)">19 - 20</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
