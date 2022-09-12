@@ -173,6 +173,27 @@
                 <td></td>
                 <td></td>
             </tr>
+             <tr>
+                <th style="background-color: rgb(120, 208, 235)">15 - 16</th>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INMA105
+                    <br>Administrasi
+                    <br>Lab Basis
+                    <br>Kelas A</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">SENG104
+                    <br>RPL
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">INTS102
+                    <br>Pengenalan
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td align="center" style="background-color: rgb(233, 192, 250)">ALGO107
+                    <br>Algo Opti
+                    <br>Lab Basis
+                    <br>Kelas AP</td>
+                <td></td>
+                <td></td>
+            </tr>
             </tbody>
     </table>
 </body>
