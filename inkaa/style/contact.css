@@ -1,0 +1,130 @@
+body {
+  margin:0; 
+}
+
+nav {
+  display: flex;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    background: #191919;
+}
+nav h2 {
+  color:#fff;
+}
+
+ul {
+  list-style: none;
+    display: flex;
+}
+ul li {
+  margin-left: 22px;
+}
+ul li a{
+  color: #fff;
+  text-decoration: none;
+}
+ul li a:hover{
+  color: #f1d204;
+}
+
+input {
+  height: 30px;
+    padding-left: 8px;
+    border-radius: 5px;
+    border: 1px solid #e1e1e1;
+    background-color: #fcfcfc;
+}
+
+textarea {
+  padding-left: 8px;
+  border-radius: 5px;
+  border: 1px solid #e1e1e1;
+  background-color: #fcfcfc;
+}
+
+.container {
+  padding: 0 80px;
+}
+.orange {
+  color: #FF4C29;
+}
+.text {
+  color: #8c9597;
+}
+
+.active {
+  color: #f1d204;
+}
+.title {
+  text-align: center;
+  color: #545454;
+  margin: 5rem 0;
+}
+
+.detail-contact {
+  display: flex;
+  margin-bottom: 3rem;
+}
+
+.alamat {
+  display: flex;
+}
+.alamat-p {
+  padding-right: 18px;
+  border-right: 1px solid #e1e1e1;
+  height: 40px;
+  margin-right: 8px;
+}
+.alamat-detail {
+  width: 16rem;
+}
+
+.emailTlp {
+  display: flex;
+  display: flex;
+  margin-left: 6rem;
+}
+.email-p {
+  padding-right: 18px;
+  border-right: 1px solid #e1e1e1;
+  height: 40px;
+  margin-right: 8px;
+}
+.nomer {
+  margin-bottom: -12px;
+}
+
+.data-email{
+  display: flex;
+    justify-content: space-between;
+}
+
+.form-atas {
+  display: inline-grid;
+  width: 30%;
+}
+
+.isi-pesan {
+  display: inline-grid;
+    width: -webkit-fill-available;
+    margin-top: 1rem;
+}
+
+.tombol-kirim {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 2rem;
+}
+.tombol-kirim button{
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 5px;
+  background: #f1d204;
+  color: #fff;
+  font-weight: 700;
+}
+.tombol-kirim button:hover {
+  background: #FF4C29;
+  cursor: pointer;
+}
